@@ -167,7 +167,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "delay": "^6.0.0",
-    "diff": "^5.1.0",
+    "diff": "^8.0.3",
     "http-proxy": "^1.18.1",
     "isomorphic-dompurify": "^2.16.0",
     "js-levenshtein": "^1.1.6",
