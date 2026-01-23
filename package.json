@@ -171,7 +171,7 @@
     "http-proxy": "^1.18.1",
     "isomorphic-dompurify": "^2.16.0",
     "js-levenshtein": "^1.1.6",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lru-cache": "^10.2.0",
     "markdown-it": "^14.1.0",
     "minimist": "^1.2.8",
