@@ -173,7 +173,7 @@
     "js-levenshtein": "^1.1.6",
     "lodash": "^4.17.21",
     "lru-cache": "^10.2.0",
-    "markdown-it": "^14.1.0",
+    "markdown-it": "^14.1.1",
     "minimist": "^1.2.8",
     "minisearch": "^7.1.0",
     "node-fetch": "^3.3.2",
